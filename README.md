@@ -18,10 +18,12 @@
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/nikhila-20032006/test4/tree/master/0009-palindrome-number) |
+| [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhila-20032006/test4/tree/master/0001-two-sum) |
+| [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -30,4 +32,9 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
