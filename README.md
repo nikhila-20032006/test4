@@ -20,6 +20,7 @@
 | ------- |
 | [0009-palindrome-number](https://github.com/nikhila-20032006/test4/tree/master/0009-palindrome-number) |
 | [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
 ## Hash Table
 |  |
 | ------- |
@@ -39,4 +40,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
+## String
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
