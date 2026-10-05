@@ -8,6 +8,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/nikhila-20032006/test4/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/nikhila-20032006/test4/tree/master/0283-move-zeroes) |
+| [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhila-20032006/test4/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhila-20032006/test4/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
@@ -48,4 +49,8 @@
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
