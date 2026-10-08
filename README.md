@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/nikhila-20032006/test4/tree/master/0283-move-zeroes) |
 | [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhila-20032006/test4/tree/master/0724-find-pivot-index) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nikhila-20032006/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhila-20032006/test4/tree/master/1480-running-sum-of-1d-array) |
 ## Prefix Sum
 |  |
@@ -57,6 +58,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/nikhila-20032006/test4/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/nikhila-20032006/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
