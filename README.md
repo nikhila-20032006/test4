@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/nikhila-20032006/test4/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhila-20032006/test4/tree/master/0035-search-insert-position) |
 | [0088-merge-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/nikhila-20032006/test4/tree/master/0136-single-number) |
@@ -57,6 +58,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhila-20032006/test4/tree/master/0035-search-insert-position) |
 | [0441-arranging-coins](https://github.com/nikhila-20032006/test4/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
