@@ -27,6 +27,7 @@
 | [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nikhila-20032006/test4/tree/master/0441-arranging-coins) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhila-20032006/test4/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 |  |
 | ------- |
 | [0136-single-number](https://github.com/nikhila-20032006/test4/tree/master/0136-single-number) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhila-20032006/test4/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
