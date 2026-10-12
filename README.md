@@ -15,6 +15,7 @@
 | [0724-find-pivot-index](https://github.com/nikhila-20032006/test4/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhila-20032006/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhila-20032006/test4/tree/master/1480-running-sum-of-1d-array) |
+| [1672-richest-customer-wealth](https://github.com/nikhila-20032006/test4/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -69,4 +70,8 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0088-merge-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/nikhila-20032006/test4/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
