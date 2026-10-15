@@ -17,6 +17,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhila-20032006/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhila-20032006/test4/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nikhila-20032006/test4/tree/master/1672-richest-customer-wealth) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhila-20032006/test4/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0001-two-sum](https://github.com/nikhila-20032006/test4/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/nikhila-20032006/test4/tree/master/0242-valid-anagram) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhila-20032006/test4/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -86,4 +88,12 @@
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/nikhila-20032006/test4/tree/master/0287-find-the-duplicate-number) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhila-20032006/test4/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhila-20032006/test4/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
