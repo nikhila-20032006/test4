@@ -15,6 +15,7 @@
 | [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/nikhila-20032006/test4/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhila-20032006/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhila-20032006/test4/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhila-20032006/test4/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nikhila-20032006/test4/tree/master/1672-richest-customer-wealth) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhila-20032006/test4/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -30,6 +31,7 @@
 | [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nikhila-20032006/test4/tree/master/0441-arranging-coins) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhila-20032006/test4/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/nikhila-20032006/test4/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
