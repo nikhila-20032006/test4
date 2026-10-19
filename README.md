@@ -18,6 +18,7 @@
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/nikhila-20032006/test4/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/nikhila-20032006/test4/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/nikhila-20032006/test4/tree/master/1672-richest-customer-wealth) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhila-20032006/test4/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/nikhila-20032006/test4/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Prefix Sum
 |  |
@@ -77,11 +78,13 @@
 | [0441-arranging-coins](https://github.com/nikhila-20032006/test4/tree/master/0441-arranging-coins) |
 | [0704-binary-search](https://github.com/nikhila-20032006/test4/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/nikhila-20032006/test4/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhila-20032006/test4/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0088-merge-sorted-array) |
 | [0242-valid-anagram](https://github.com/nikhila-20032006/test4/tree/master/0242-valid-anagram) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/nikhila-20032006/test4/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Matrix
 |  |
 | ------- |
