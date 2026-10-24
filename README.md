@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/nikhila-20032006/test4/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/nikhila-20032006/test4/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/nikhila-20032006/test4/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/nikhila-20032006/test4/tree/master/0035-search-insert-position) |
@@ -66,6 +67,7 @@
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/nikhila-20032006/test4/tree/master/0014-longest-common-prefix) |
 | [0242-valid-anagram](https://github.com/nikhila-20032006/test4/tree/master/0242-valid-anagram) |
 | [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
 ## Simulation
@@ -110,4 +112,8 @@
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/nikhila-20032006/test4/tree/master/0069-sqrtx) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/nikhila-20032006/test4/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
