@@ -37,6 +37,7 @@
 | [0069-sqrtx](https://github.com/nikhila-20032006/test4/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/nikhila-20032006/test4/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/nikhila-20032006/test4/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/nikhila-20032006/test4/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhila-20032006/test4/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/nikhila-20032006/test4/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/nikhila-20032006/test4/tree/master/0441-arranging-coins) |
@@ -134,5 +135,6 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/nikhila-20032006/test4/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/nikhila-20032006/test4/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/nikhila-20032006/test4/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
